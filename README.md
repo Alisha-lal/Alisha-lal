@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi 👋 I'm Alisha Lal
+# Hi 👋, I'm Alisha Lal
 
-### AI & Machine Learning Engineer • Generative AI • NLP • Reinforcement Learning
+### AI & Machine Learning Engineer • Generative AI • NLP • Data Analytics
 
-Building intelligent systems that solve real-world problems through AI, Machine Learning, and scalable software engineering.
+Building intelligent systems that transform data into meaningful insights and real-world AI solutions.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Building+LLMs+%26+NLP+Applications;Generative+AI+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Building+LLMs+and+NLP+Applications;Transforming+Data+into+Actionable+Insights;Generative+AI+Developer;Always+Learning+Something+New"/>
 
 <br>
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,15 +26,17 @@ Building intelligent systems that solve real-world problems through AI, Machine 
 
 ---
 
-# 👩🏻‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at **VIT-AP University**
+🎓 **B.Tech in Computer Science & Engineering (AI & ML)** at **VIT-AP University**
 
-📈 **CGPA:** 9.10 / 10
+📈 **CGPA:** **9.10 / 10**
 
-I'm passionate about building AI applications that combine Machine Learning, Large Language Models, and scalable backend systems to solve practical problems.
+I'm passionate about building AI-powered applications that combine Machine Learning, Large Language Models, and scalable software systems to solve practical problems.
 
-I enjoy taking ideas from research to deployment—whether it's legal document intelligence, reinforcement learning, or intelligent healthcare systems.
+Beyond developing models, I enjoy working with data—cleaning, preprocessing, exploring datasets, and uncovering actionable insights that support better decision-making. I believe impactful AI begins with understanding the data behind it.
+
+I'm currently exploring production-ready AI applications using **FastAPI, LangChain, Docker, and AWS**.
 
 ---
 
@@ -43,39 +45,59 @@ I enjoy taking ideas from research to deployment—whether it's legal document i
 - 🏥 ML-powered Patient Finder System
 - 🤖 AI Agents & Multi-Agent Systems
 - 🧠 Production-ready LLM Applications
+- 📊 Data Analytics & Business Insights
 - 📚 Advanced Data Structures & Algorithms
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / ML
 
-<p>
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- LangChain
+- LangGraph
+- Transformers
+- PyTorch
+- Scikit-learn
 
-Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Prompt Engineering • LangChain • LangGraph • Transformers • PyTorch • Scikit-learn
+### 📊 Data & Analytics
 
-</p>
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Statistical Analysis
+- Data Visualization
+- Pandas
+- NumPy
+- Matplotlib
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker"/>
 </p>
 
-### Databases
+### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Cloud & Tools
+### ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,aws,vscode"/>
@@ -83,67 +105,74 @@ Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Pr
 
 ---
 
+# 📊 Working with Data
+
+I enjoy transforming raw data into meaningful insights by:
+
+- 🧹 Cleaning and preprocessing datasets
+- 📊 Performing Exploratory Data Analysis (EDA)
+- 📈 Identifying trends and patterns
+- 🧠 Engineering meaningful features
+- 📉 Building visualizations for better decision-making
+- 🤖 Developing predictive Machine Learning models
+
+---
+
 # 🚀 Featured Projects
 
 ## 📄 Automated Risk-Oriented Analysis of Digital Service Agreements
 
-AI-powered legal document intelligence platform that detects, classifies, and summarizes risky clauses using Legal-BERT.
+An AI-powered legal document analysis platform that detects, classifies, and summarizes risky clauses using **Legal-BERT**.
 
-**Highlights**
+### Highlights
 
-✔ 99% classification accuracy
+- ✅ Achieved **99% classification accuracy**
+- 📑 Automated contract risk detection
+- 📝 Generated plain-language summaries using Transformer models
+- ⚡ Improved contract review efficiency
 
-✔ Automated contract risk assessment
+**Tech Stack**
 
-✔ Plain-language summaries using Transformer models
-
-✔ Faster legal review workflow
-
-**Tech**
-
-`Python` `Legal-BERT` `Transformers` `NLP`
+`Python` • `Legal-BERT` • `Transformers` • `NLP`
 
 ---
 
 ## 🧠 Attention-Enhanced Multi-Agent Actor-Critic (AE-MAAC)
 
-An attention-enhanced multi-agent reinforcement learning framework for scalable coordination.
+An enhanced multi-agent reinforcement learning framework for scalable coordination.
 
-**Highlights**
+### Highlights
 
-✔ Improved cumulative reward by **23%**
+- 🚀 Improved cumulative reward by **23%**
+- 📉 Reduced scalability degradation from **38% → 11%**
+- 🤝 Enhanced collaborative decision-making
 
-✔ Reduced scalability degradation from **38% → 11%**
+**Tech Stack**
 
-✔ Better collaborative decision-making
-
-**Tech**
-
-`Python` `PyTorch` `Reinforcement Learning`
+`Python` • `PyTorch` • `Reinforcement Learning`
 
 ---
 
-## 🏥 Patient Finder *(In Progress)*
+## 🏥 Patient Finder *(Currently Building)*
 
-Machine Learning system for recommending suitable hospitals based on patient conditions and healthcare data.
+An intelligent healthcare recommendation system that predicts suitable hospitals based on patient conditions using Machine Learning.
 
-**Tech**
+**Tech Stack**
 
-`Python` `Scikit-Learn` `FastAPI` `Pandas`
+`Python` • `Scikit-learn` • `FastAPI` • `Pandas`
 
 ---
 
 # 💼 Experience
 
-## Artificial Intelligence Intern
+## Artificial Intelligence Intern | Avkalan.ai
 
-**Avkalan.ai** • June 2025 – July 2025
+**June 2025 – July 2025**
 
-- Worked with UK-based clients on AI-driven automation solutions.
-- Designed and integrated an NLP-powered chatbot.
-- Built REST API integrations.
-- Applied Prompt Engineering to improve AI responses.
-- Collaborated across teams to deliver scalable AI solutions.
+- Collaborated with UK-based clients on AI-powered automation solutions for the Biodiversity Net Gain (BNG) Planning Portal.
+- Analyzed workflows and datasets to identify automation opportunities.
+- Designed and integrated an NLP-powered chatbot using Prompt Engineering.
+- Built REST API integrations and collaborated across cross-functional teams to deliver scalable AI solutions.
 
 ---
 
@@ -153,29 +182,31 @@ Machine Learning system for recommending suitable hospitals based on patient con
 - Multi-Agent Systems
 - Production LLM Applications
 - MLOps
-- Distributed AI Systems
+- Scalable AI Architectures
 
 ---
 
 # 🏆 Achievements
 
-🥇 Top 20 Finalist among **1000+ teams** in the **Samartha Hackathon**
+🏅 Top 20 Finalist among **1000+ teams** in the **Samartha Hackathon**
 
 👩‍💻 Technical Team Lead — Machine Learning Club, VIT-AP University
 
-🎓 CGPA **9.10 / 10**
+🎓 CGPA: **9.10 / 10**
 
 ---
 
-# 💡 Interests
+# 💡 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Large Language Models
-- Reinforcement Learning
-- AI Agents
-- Backend Engineering
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 📚 Natural Language Processing
+- 💬 Large Language Models
+- ⚡ Reinforcement Learning
+- 🤝 AI Agents
+- ☁️ Intelligent Software Systems
 
 ---
 
@@ -183,7 +214,7 @@ Machine Learning system for recommending suitable hospitals based on patient con
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -201,6 +232,6 @@ Machine Learning system for recommending suitable hospitals based on patient con
 
 <div align="center">
 
-### ⭐ "Building AI that creates measurable real-world impact."
+### ⭐ *"Turning data into insights and ideas into intelligent solutions."*
 
 </div>
