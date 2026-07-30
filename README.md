@@ -103,20 +103,6 @@ I'm currently exploring production-ready AI applications using **FastAPI, LangCh
 
 ---
 
-# 📊 Working with Data
-
-I enjoy transforming raw data into meaningful insights by:
-
-- 🧹 Cleaning and preprocessing datasets
-- 📊 Performing Exploratory Data Analysis (EDA)
-- 📈 Identifying trends and patterns
-- 🧠 Engineering meaningful features
-- 📉 Building visualizations for better decision-making
-- 🤖 Developing predictive Machine Learning models
-
----
-
-
 
 ---
 
