@@ -1,77 +1,84 @@
-<h1 align="center">Hi 👋, I'm Alisha Lal</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Engineer • GenAI Enthusiast • NLP • LLMs • Reinforcement Learning
-</h3>
+# Hi 👋 I'm Alisha Lal
 
-<p align="center">
-Building intelligent systems that solve real-world problems through AI, Machine Learning, and Software Engineering.
-</p>
+### AI & Machine Learning Engineer • Generative AI • NLP • Reinforcement Learning
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Building+LLMs+%26+NLP+Applications;Generative+AI+%7C+RAG+%7C+AI+Agents;Always+Learning+Something+New" />
-</p>
+Building intelligent systems that solve real-world problems through AI, Machine Learning, and scalable software engineering.
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Building+LLMs+%26+NLP+Applications;Generative+AI+Developer;Always+Learning+Something+New"/>
 
-## 👩‍💻 About Me
+<br>
 
-🎓 **B.Tech Computer Science & Engineering (AI & ML)**  
-📍 VIT-AP University | CGPA **9.10/10**
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I'm passionate about building AI-powered applications that transform complex data into intelligent, practical solutions.
+<a href="mailto:alishalall02@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-My interests include:
+<a href="https://github.com/Alisha-lal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 📚 Natural Language Processing
-- 🔬 Machine Learning
-- ⚡ Reinforcement Learning
-- 🚀 AI Agents
-
-Currently exploring production-ready AI systems using **FastAPI, LangChain, Docker, and AWS**.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 👩🏻‍💻 About Me
 
-### Programming Languages
+🎓 B.Tech in **Computer Science & Engineering (AI & ML)** at **VIT-AP University**
+
+📈 **CGPA:** 9.10 / 10
+
+I'm passionate about building AI applications that combine Machine Learning, Large Language Models, and scalable backend systems to solve practical problems.
+
+I enjoy taking ideas from research to deployment—whether it's legal document intelligence, reinforcement learning, or intelligent healthcare systems.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🏥 ML-powered Patient Finder System
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Production-ready LLM Applications
+- 📚 Advanced Data Structures & Algorithms
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
 </p>
 
 ### AI / Machine Learning
 
-- Machine Learning
-- Deep Learning
-- NLP
-- LLMs
-- RAG
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Transformers
-- PyTorch
-- Scikit-learn
+<p>
+
+Machine Learning • Deep Learning • NLP • LLMs • RAG • AI Agents • Prompt Engineering • LangChain • LangGraph • Transformers • PyTorch • Scikit-learn
+
+</p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode"/>
 </p>
 
 ---
@@ -80,44 +87,49 @@ Currently exploring production-ready AI systems using **FastAPI, LangChain, Dock
 
 ## 📄 Automated Risk-Oriented Analysis of Digital Service Agreements
 
-Built an AI-powered legal document analysis platform using **Legal-BERT**.
+AI-powered legal document intelligence platform that detects, classifies, and summarizes risky clauses using Legal-BERT.
 
-✨ Highlights
+**Highlights**
 
-- 99% classification accuracy
-- Risk Detection
-- Plain-language summaries
-- Automated Legal Contract Analysis
+✔ 99% classification accuracy
 
-**Tech Stack**
+✔ Automated contract risk assessment
 
-Python • Legal-BERT • Transformers • NLP
+✔ Plain-language summaries using Transformer models
+
+✔ Faster legal review workflow
+
+**Tech**
+
+`Python` `Legal-BERT` `Transformers` `NLP`
 
 ---
 
 ## 🧠 Attention-Enhanced Multi-Agent Actor-Critic (AE-MAAC)
 
-An enhanced multi-agent reinforcement learning framework for scalable coordination.
+An attention-enhanced multi-agent reinforcement learning framework for scalable coordination.
 
-✨ Highlights
+**Highlights**
 
-- 23% improvement in cumulative reward
-- Reduced scalability degradation from 38% → 11%
-- Improved collaborative decision-making
+✔ Improved cumulative reward by **23%**
 
-**Tech Stack**
+✔ Reduced scalability degradation from **38% → 11%**
 
-Python • PyTorch • Reinforcement Learning
+✔ Better collaborative decision-making
+
+**Tech**
+
+`Python` `PyTorch` `Reinforcement Learning`
 
 ---
 
-## 🏥 Patient Finder (Currently Building)
+## 🏥 Patient Finder *(In Progress)*
 
-An intelligent healthcare recommendation system that predicts the most suitable hospitals based on patient conditions using Machine Learning.
+Machine Learning system for recommending suitable hospitals based on patient conditions and healthcare data.
 
-**Tech Stack**
+**Tech**
 
-Python • Scikit-Learn • FastAPI • Pandas
+`Python` `Scikit-Learn` `FastAPI` `Pandas`
 
 ---
 
@@ -125,23 +137,13 @@ Python • Scikit-Learn • FastAPI • Pandas
 
 ## Artificial Intelligence Intern
 
-**Avkalan.ai** *(June 2025 – July 2025)*
+**Avkalan.ai** • June 2025 – July 2025
 
-- Worked with UK-based clients on AI-driven automation solutions for the Biodiversity Net Gain (BNG) Planning Portal.
+- Worked with UK-based clients on AI-driven automation solutions.
 - Designed and integrated an NLP-powered chatbot.
 - Built REST API integrations.
-- Applied Prompt Engineering techniques.
-- Collaborated with cross-functional teams to translate business requirements into AI solutions.
-
----
-
-# 🏆 Achievements
-
-🥇 Top 20 Finalist among **1000+ teams** in the Samartha Hackathon.
-
-👩‍💻 Technical Team Lead — Machine Learning Club, VIT-AP University.
-
-🎓 CGPA: **9.10 / 10**
+- Applied Prompt Engineering to improve AI responses.
+- Collaborated across teams to deliver scalable AI solutions.
 
 ---
 
@@ -149,66 +151,56 @@ Python • Scikit-Learn • FastAPI • Pandas
 
 - AI Agents
 - Multi-Agent Systems
-- MLOps
 - Production LLM Applications
-- Scalable AI Architectures
+- MLOps
+- Distributed AI Systems
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Achievements
 
-<p align="center">
+🥇 Top 20 Finalist among **1000+ teams** in the **Samartha Hackathon**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alisha-lal&show_icons=true&theme=tokyonight&hide_border=true"/>
+👩‍💻 Technical Team Lead — Machine Learning Club, VIT-AP University
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisha-lal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🎓 CGPA **9.10 / 10**
 
 ---
 
-# 🔥 GitHub Streak
+# 💡 Interests
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Alisha-lal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alisha-lal&theme=tokyo-night"/>
-
-</p>
+- Artificial Intelligence
+- Machine Learning
+- NLP
+- Large Language Models
+- Reinforcement Learning
+- AI Agents
+- Backend Engineering
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:alishalall02@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/alisha-lal-574277277/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:alishalall02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Alisha-lal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ "Building AI that creates measurable real-world impact."
 
-</p>
+</div>
