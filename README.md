@@ -118,63 +118,7 @@ I enjoy transforming raw data into meaningful insights by:
 
 ---
 
-# 🚀 Featured Projects
 
-## 📄 Automated Risk-Oriented Analysis of Digital Service Agreements
-
-An AI-powered legal document analysis platform that detects, classifies, and summarizes risky clauses using **Legal-BERT**.
-
-### Highlights
-
-- ✅ Achieved **99% classification accuracy**
-- 📑 Automated contract risk detection
-- 📝 Generated plain-language summaries using Transformer models
-- ⚡ Improved contract review efficiency
-
-**Tech Stack**
-
-`Python` • `Legal-BERT` • `Transformers` • `NLP`
-
----
-
-## 🧠 Attention-Enhanced Multi-Agent Actor-Critic (AE-MAAC)
-
-An enhanced multi-agent reinforcement learning framework for scalable coordination.
-
-### Highlights
-
-- 🚀 Improved cumulative reward by **23%**
-- 📉 Reduced scalability degradation from **38% → 11%**
-- 🤝 Enhanced collaborative decision-making
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `Reinforcement Learning`
-
----
-
-## 🏥 Patient Finder *(Currently Building)*
-
-An intelligent healthcare recommendation system that predicts suitable hospitals based on patient conditions using Machine Learning.
-
-**Tech Stack**
-
-`Python` • `Scikit-learn` • `FastAPI` • `Pandas`
-
----
-
-# 💼 Experience
-
-## Artificial Intelligence Intern | Avkalan.ai
-
-**June 2025 – July 2025**
-
-- Collaborated with UK-based clients on AI-powered automation solutions for the Biodiversity Net Gain (BNG) Planning Portal.
-- Analyzed workflows and datasets to identify automation opportunities.
-- Designed and integrated an NLP-powered chatbot using Prompt Engineering.
-- Built REST API integrations and collaborated across cross-functional teams to deliver scalable AI solutions.
-
----
 
 # 🌱 Currently Learning
 
@@ -186,13 +130,7 @@ An intelligent healthcare recommendation system that predicts suitable hospitals
 
 ---
 
-# 🏆 Achievements
 
-🏅 Top 20 Finalist among **1000+ teams** in the **Samartha Hackathon**
-
-👩‍💻 Technical Team Lead — Machine Learning Club, VIT-AP University
-
-🎓 CGPA: **9.10 / 10**
 
 ---
 
