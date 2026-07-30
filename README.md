@@ -30,8 +30,6 @@ Building intelligent systems that transform data into meaningful insights and re
 
 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** at **VIT-AP University**
 
-📈 **CGPA:** **9.10 / 10**
-
 I'm passionate about building AI-powered applications that combine Machine Learning, Large Language Models, and scalable software systems to solve practical problems.
 
 Beyond developing models, I enjoy working with data—cleaning, preprocessing, exploring datasets, and uncovering actionable insights that support better decision-making. I believe impactful AI begins with understanding the data behind it.
@@ -115,18 +113,6 @@ I enjoy transforming raw data into meaningful insights by:
 - 🧠 Engineering meaningful features
 - 📉 Building visualizations for better decision-making
 - 🤖 Developing predictive Machine Learning models
-
----
-
-
-
-# 🌱 Currently Learning
-
-- AI Agents
-- Multi-Agent Systems
-- Production LLM Applications
-- MLOps
-- Scalable AI Architectures
 
 ---
 
